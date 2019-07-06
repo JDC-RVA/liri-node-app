@@ -1,6 +1,7 @@
 # liri-node-app
 
 node liri.js concert-this <artist/band name here>
+
 ![alt text](https://github.com/JDC-RVA/liri-node-app/blob/master/screenshots/concert.png "concert")
 
 node liri.js spotify-this-song '<song name here>'
