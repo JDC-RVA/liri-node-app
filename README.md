@@ -1,3 +1,3 @@
 # liri-node-app
 
-![alt text](./images/concert.png "Logo Title Text 1")
+![alt text](https://github.com/JDC-RVA/liri-node-app/blob/master/screenshots/concert.png "Logo Title Text 1")
